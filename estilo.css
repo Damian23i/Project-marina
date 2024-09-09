@@ -1,11 +1,23 @@
 p {
+    color: darkslategray;
+}
+
+th {
+    color: rgb(94, 201, 22);
+}
+
+tr {
+    color: blue;
+}
+
+body {
+    background-color: aquamarine;
+}
+
+h1 {
     color: black;
-    font-size: 2px;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
-h1{
-    color: crimson;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+hr {
+    height: 2px;
 }
-
